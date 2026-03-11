@@ -1,1 +1,0 @@
-﻿Performed portfolio and investment analysis using historical financial data from Yahoo Finance. Cleaned and structured time-series datasets in Excel, calculated stock returns, descriptive statistics, correlation, covariance, and Sharpe Ratio. Applied regression analysis and interpreted risk-return characteristics to evaluate diversification and investment performance.
